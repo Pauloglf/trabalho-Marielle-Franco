@@ -1,0 +1,29 @@
+h1{
+    color: #CA2121;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+body{
+    background-color: #d2b485;
+}
+
+h2{
+    color: white;
+}
+
+nav{
+    background-color: #6d4200;
+}
+
+nav ul img{
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 100%;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    color: white;
+}
