@@ -17,6 +17,10 @@ nav{
 }
 
 nav ul img{
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 100px;
+    height: 100px;
     max-height: 200px;
     max-width: 200px;
     border-radius: 100%;
@@ -26,4 +30,9 @@ nav ul li{
     list-style: none;
     display: inline-block;
     color: white;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
 }
