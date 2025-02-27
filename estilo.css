@@ -17,12 +17,18 @@ nav{
 }
 
 nav ul img{
+   text-align: justify;
+    margin-right: 15px;
+    margin-left: 15px;
+    width: 100px;
+    height: 100px;
     max-height: 200px;
     max-width: 200px;
     border-radius: 100%;
 }
 
 nav ul li{
+   text-align: center;
     list-style: none;
     display: inline-block;
     color: white;
