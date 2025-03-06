@@ -2,10 +2,14 @@ h1{
     color: #CA2121;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    
 }
 
 body{
     background-color: #d2b485;
+    height: 100vh;
+    width: auto;
+
 }
 
 h2{
@@ -14,10 +18,11 @@ h2{
 
 nav{
     background-color: #6d4200;
+    width: 100%;
 }
 
 nav ul img{
-   text-align: justify;
+    text-align: justify;
     margin-right: 15px;
     margin-left: 15px;
     width: 100px;
@@ -28,8 +33,18 @@ nav ul img{
 }
 
 nav ul li{
-   text-align: center;
+    text-align: center;
     list-style: none;
     display: inline-block;
     color: white;
+}
+
+ul li{
+    display: inline;
+    list-style: none;
+}
+
+footer{
+    background-color: #6d4200;
+   
 }
